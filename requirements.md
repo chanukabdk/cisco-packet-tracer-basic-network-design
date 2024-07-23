@@ -82,7 +82,6 @@ Design and configure a basic local area network (LAN) using Cisco Packet Tracer.
 - **Cisco Packet Tracer File**: The .pkt file containing the network configuration.
 - **Configuration Files**: Text files or screenshots of router and switch configurations.
 - **Network Diagram**: A visual representation of the network topology.
-- **IP Address Assignments**: A document listing the IP addresses assigned to each device.
 
 ## Additional Notes
 - **Command Line Only**: Use only the command-line interface (CLI) for configuring the switches and router. Avoid using the graphical interface or automated configuration tools within Cisco Packet Tracer.
