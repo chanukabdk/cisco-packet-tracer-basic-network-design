@@ -17,17 +17,18 @@ This repository contains the configuration files for a basic network design proj
 ## **Files Included**
 
 - `Network_Topology.pkt`: Cisco Packet Tracer file with the network design and configuration.
-- `Router_Configuration.txt`: Configuration commands used on the router.
-- `Switch_Configuration.txt`: Configuration commands used on the switches.
-- `Project_Requirements.txt`: Detailed requirements and specifications for the project.
+- `Router_Configuration.md`: Configuration commands used on the router.
+- `Switch1_Configuration.md`: Configuration commands used on the switch1.
+- `Switch2_Configuration.md`: Configuration commands used on the switch2.
+- `Project_Requirements.md`: Detailed requirements and specifications for the project.
 
 ---
 
 ## **How to Use**
 
 1. **Open the Packet Tracer File**: Download and open `Network_Topology.pkt` using Cisco Packet Tracer.
-2. **Review Configurations**: Examine `Router_Configuration.txt` and `Switch_Configuration.txt` for the detailed configuration commands.
-3. **Understand Project Requirements**: Refer to `Project_Requirements.txt` to understand the complete project requirements and specifications.
+2. **Review Configurations**: Examine `Router_Configuration.md` and `Switch#_Configuration.md` for the detailed configuration commands.
+3. **Understand Project Requirements**: Refer to `Project_Requirements.md` to understand the complete project requirements and specifications.
 
 ---
 
